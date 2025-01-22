@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Squid Game Rules & Regulations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: floralwhite;
+            color: #ffffff;
+            background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Foalmujalhem%2Fsquid-games%2F&psig=AOvVaw2-4Q8jefDclSMmxhMW_ZsU&ust=1737657464662000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCqn9T8iYsDFQAAAAAdAAAAABAJ'); /* Replace with a valid image URL */
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        header {
+            background-color: pink;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: rgba(0, 0, 0, 0.8);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        h1, h2 {
+            color: #ff0055;
+        }
+        ul {
+            list-style: disc;
+            padding-left: 1.5rem;
+        }
+        li {
+            margin-bottom: 0.5rem;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #ff0055;
+            color: #fff;
+            margin-top: 2rem;
+        }
+        a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .highlight {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Squid Game: Rules & Regulations</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Code of Conduct</h2>
+            <ul>
+                <li><li class="highlight">Physical violence, abusive language, and cheating are strictly prohibited.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Dress Code</h2>
+            <ul>
+                <li>Participants must wear the provided uniforms and identification badges during the event.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Participation Fee</h2>
+            <ul>
+                Any entry fee must be paid in full before participation.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Game-Specific Rules</h2>
+            <ul>
+                <li>Game Format: The event will consist of multiple rounds inspired by traditional games (e.g., Tug of War, Red Light Green Light), adapted for safety.</li>
+                <li>Elimination: Once eliminated, participants must leave the game area immediately and may not interfere with ongoing games.</li>
+                <li>Safety Protocols: All activities will use safe, non-harmful equipment, and professional supervision will be provided.</li>
+                <li>Restart/Appeals: If a game is disrupted due to unforeseen circumstances, it may be restarted at the discretion of the organizers.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Behavior and Disqualification</h2>
+            <ul>
+                <li>Integrity: Any participant caught cheating or sabotaging others will be disqualified.</li>
+                <li>Cooperation: Participants must follow the instructions of the game moderators and staff.</li>
+                <li>Teamwork: For team-based games, participants must cooperate with their assigned team.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Legal and Financial</h2>
+            <ul>
+                <li>Prize Money: The total prize amount and distribution process will be announced before the start of the event.</li>
+                <li>No Refunds: Entry fees are non-refundable unless the event is canceled by the organizers.</li>
+                <li>Photography and Media: By participating, players consent to being photographed or recorded for promotional purposes.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Squid Game Pakistan. All Rights Reserved. | <a href="#">Contact Us</a></p>
+    </footer>
+</body>
+</html>
